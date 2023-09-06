@@ -3,4 +3,4 @@
 
 Behold, an academic failure
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/lgabeeva/homework3/blob/main/Screenshot1.png)
